@@ -1,0 +1,2 @@
+To Open Customer page click :: LOGIN
+To Open Admin Page click    :: Signup and again signup.
