@@ -1,4 +1,4 @@
-### Book Sale Management System
+# Book Sale Management System
 This repository contains a Book Sale Management System developed as a semester project for our Object-Oriented Programming (OOP) course. The primary aim of this project was to apply and demonstrate our understanding of OOP concepts.
 
 ## Project Overview
